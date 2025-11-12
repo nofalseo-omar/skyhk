@@ -1,0 +1,16 @@
+flutter_native_splash:
+  color: "#071622"
+  color_dark: "#071622"
+  android: true
+  ios: true
+  web: true
+  image: assets/images/skymkh_logo.png
+  image_dark: assets/images/skymkh_logo.png
+  android_12:
+    color: "#071622"
+    color_dark: "#071622"
+    image: assets/images/skymkh_logo.png
+    image_dark: assets/images/skymkh_logo.png
+    icon_background_color: "#071622"
+    icon_background_color_dark: "#071622"
+

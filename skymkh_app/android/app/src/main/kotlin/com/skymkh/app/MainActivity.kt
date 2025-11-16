@@ -1,5 +1,8 @@
-package com.example.skymkh_app
+package com.skymkh.app
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity : FlutterActivity()
+
+
+

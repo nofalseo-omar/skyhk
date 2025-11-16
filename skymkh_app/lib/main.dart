@@ -121,8 +121,8 @@ class _SkymkhHomeState extends State<SkymkhHome> {
       params = AndroidWebViewControllerCreationParams();
     }
 
-    final WebViewController controller =
-        WebViewController.fromPlatformCreationParams(params)
+    final WebViewController
+    controller = WebViewController.fromPlatformCreationParams(params)
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
       ..setBackgroundColor(Colors.white)
       ..setNavigationDelegate(
